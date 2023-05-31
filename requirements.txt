@@ -1,5 +1,5 @@
 nltk==3.7
-numpy==1.22.4
+numpy
 Pillow==9.1.1
 streamlit==1.14.1
 sklearn
