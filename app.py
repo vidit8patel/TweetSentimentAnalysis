@@ -6,7 +6,6 @@ import streamlit as st
 from PIL import Image
 import scipy
 import numpy as np
-import scipy.sparse
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
