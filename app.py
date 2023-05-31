@@ -4,8 +4,8 @@ import numpy as np
 import pickle
 import string
 from PIL import Image
-nltk.download('stopwords')
 import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.stem import WordNetLemmatizer
