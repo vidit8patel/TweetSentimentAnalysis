@@ -5,6 +5,7 @@ import nltk
 import streamlit as st
 from PIL import Image
 import scipy
+import numpy as np
 import scipy.sparse._csr
 nltk.download('stopwords')
 from nltk.corpus import stopwords
