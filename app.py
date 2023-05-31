@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 import string
 from PIL import Image
-from nltk.corpus import stopwords
+nltk.download('stopwords')
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
