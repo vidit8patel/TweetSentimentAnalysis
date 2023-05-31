@@ -7,6 +7,8 @@ This project shows the sentiments of tweets of a dataset i.e., if it is positive
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+[streamlit-app-2023-05-31-17-05-91.webm](https://github.com/vidit8patel/TweetSentimentAnalysis/assets/105821053/c69c0943-7d3f-43f3-b455-4995f4605e62)
+
 **Installation**:
 To run this project, follow the steps below:
 
