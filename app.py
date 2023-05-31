@@ -4,7 +4,6 @@ import re
 import nltk
 import streamlit as st
 from PIL import Image
-import scipy
 import numpy as np
 nltk.download('stopwords')
 from nltk.corpus import stopwords
