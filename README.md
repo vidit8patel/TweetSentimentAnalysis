@@ -22,7 +22,7 @@ _pip install -r requirements.txt_
 
 **Usage**
 Once the project is set up, you can run the sentiment analysis tool using Streamlit. Make sure you are in the project directory and the virtual environment is activated (if you created one). Run the following command:
-_streamlit run app.py_
+****_streamlit run app.py_****
 This command will start the Streamlit server, and you will see output similar to the following:
   _You can now view your Streamlit app in your browser._
 
