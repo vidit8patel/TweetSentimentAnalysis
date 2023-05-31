@@ -3,3 +3,4 @@ numpy
 Pillow==9.1.1
 streamlit
 scikit-learn
+scipy
