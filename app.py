@@ -1,9 +1,10 @@
-import streamlit as st
-import re
-import numpy as np
 import pickle
-from PIL import Image
+import re
+
 import nltk
+import streamlit as st
+from PIL import Image
+import scipy.sparse._csr
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
