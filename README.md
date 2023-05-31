@@ -7,7 +7,7 @@ This project shows the sentiments of tweets of a dataset i.e., if it is positive
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Installation**
+**Installation**:
 To run this project, follow the steps below:
 
 1) Clone the repository to your local machine using the following command:
@@ -21,8 +21,10 @@ _pip install -r requirements.txt_
 
 
 **Usage**
+
 Once the project is set up, you can run the sentiment analysis tool using Streamlit. Make sure you are in the project directory and the virtual environment is activated (if you created one). Run the following command:
-****_streamlit run app.py_****
+
+****streamlit run app.py****
 This command will start the Streamlit server, and you will see output similar to the following:
   _You can now view your Streamlit app in your browser._
 
