@@ -11,8 +11,8 @@ This project shows the sentiments of tweets of a dataset i.e., if it is positive
 To run this project, follow the steps below:
 
 1) Clone the repository to your local machine using the following command:
-_git clone https://github.com/vidit8patel/TweetSentimentAnalysis.git
-_
+_git clone https://github.com/vidit8patel/TweetSentimentAnalysis.git_
+
 2) Change into the project directory:
 _cd TweetSentimentAnalysis_
 
@@ -27,5 +27,5 @@ This command will start the Streamlit server, and you will see output similar to
   _You can now view your Streamlit app in your browser._
 
   Local URL: http://localhost:8501
-  Network URL: http://192.168.0.100:8501_
+  Network URL: http://192.168.0.100:8501
 Copy the local URL (e.g., http://localhost:8501) into your web browser, and the sentiment analysis tool will be displayed.
